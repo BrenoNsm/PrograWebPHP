@@ -5,6 +5,7 @@ Class Banco{
     private static $dbUsuario="root";
     private static $dbSenha = "sva337rro";
     
+    
     private static $cont = null;
     
     public function __construct() {

@@ -3,7 +3,7 @@ Class Banco{
     private static $dbNome = "dbaula";
     private static $dbHost = "localhost";
     private static $dbUsuario="root";
-    private static $dbSenha = "sva337rro";
+    private static $dbSenha = "";
     
     
     private static $cont = null;
